@@ -1,6 +1,6 @@
 /* 
 Cálculo do ICMS
-
+.
 Três funções para calcular o ICMS sobre o preço de um produto. As funções serão:
 getRawPrice: essa função será responsável por obter o preço bruto do produto do usuário.
 calculateICMS: essa função será responsável por calcular o valor do ICMS com base no preço bruto do produto.
